@@ -1,0 +1,6 @@
+D:\Projects\DataTests\DataTests\bin\Debug\DataTests.exe.config
+D:\Projects\DataTests\DataTests\obj\Debug\DataTests.csprojResolveAssemblyReference.cache
+D:\Projects\DataTests\DataTests\bin\Debug\DataTests.exe
+D:\Projects\DataTests\DataTests\bin\Debug\DataTests.pdb
+D:\Projects\DataTests\DataTests\obj\Debug\DataTests.exe
+D:\Projects\DataTests\DataTests\obj\Debug\DataTests.pdb
